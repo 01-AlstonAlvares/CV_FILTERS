@@ -15,9 +15,9 @@ If you don't have Python, download and install it from [python.org](https://www.
 
 ### Install Required Libraries
 
-Open your terminal or command prompt and run the following command to install the necessary computer vision libraries. The opencv-contrib-python package is important as it includes the SIFT algorithm used for panorama stitching and the ArUco module for augmented reality.
+Open your terminal or command prompt and run the following command to install the necessary computer vision libraries.
 
-pip install opencv-contrib-python numpy  
+pip install requirements.txt
 
 ## 2\. Required Files
 
