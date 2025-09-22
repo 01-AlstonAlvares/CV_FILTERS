@@ -70,3 +70,15 @@ This mode is required for AR and Undistort to work well.
 2. You will also need an ArUco marker. You can generate and print one online.
 3. Press a to enter AR mode.
 4. Show the ArUco marker to the camera. The 3D model should appear overlaid on the marker.
+
+### Gaussian Filter (g)
+
+1. Press [ to decrease the kernel size (minimum of 1).
+2. Press ] to increase the kernel size.
+
+### Bilateral Filter (f):
+
+1. Press < (comma) to decrease the pixel neighborhood diameter.
+2. Press > (period) to increase the pixel neighborhood diameter.
+
+### Press q to quit / close the app
