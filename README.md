@@ -17,7 +17,7 @@ If you don't have Python, download and install it from [python.org](https://www.
 
 Open your terminal or command prompt and run the following command to install the necessary computer vision libraries.
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 ## 2\. Required Files
 
