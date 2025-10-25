@@ -3,7 +3,7 @@
 
 # How to Run the Live Camera Effects Application
 
-This guide will walk you through the steps to set up and run the camera_effects_with_panorama.py script.
+This guide will walk you through the steps to set up and run the app.py script.
 
 ## 1\. Prerequisites
 
