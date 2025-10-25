@@ -32,7 +32,7 @@ Once the prerequisites are met, you can run the application with a simple comman
 
 1. Navigate to the directory containing the script and required files in your terminal.
 2. Run the script using Python:  
-    python camera_effects_with_panorama.py  
+    python app.py  
 
 A window titled "Live Camera Effects" should appear, showing your live webcam feed.
 
